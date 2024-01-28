@@ -2,9 +2,9 @@
 DB = "mysql://root:pass@ip:3306/DB_name"
 
 # https://my.telegram.org/
-ID = api_id
-HASH = "api_hash"
-TOKEN = "api_bot_token"
+ID = 16494736
+HASH = "2cb7fa5859e2de684e3e10d9c049621a"
+TOKEN = "6683503725:AAEdBDdJ7xVHo7d2mlob9cju6gFBdI4RnDo"
 IDS = [
     api_id, api_id
 ]
@@ -12,10 +12,10 @@ HASHES = [
     "api_hash", "api_hash"
 ]
 NUMBERS = [
-    "+number", "+number",
+    "+917014223488", "+number",
 ]
 SEPARATOR = "|"
-ADMIN_IDS = [chat_id, chat_id, chat_id]
+ADMIN_IDS = [5071104456, chat_id, chat_id]
 MENTION = "@everyone"
 REPLACEMENTS = {
     "heloo": "hi",
