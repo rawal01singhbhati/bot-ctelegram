@@ -1,5 +1,5 @@
 # DB = "sqlite://data.db"
-DB = "mysql://root:pass@ip:3306/DB_name"
+DB = "mongodb+srv://rawalsingh:rawalsingh007@cluster0.pr6ybgb.mongodb.net/?retryWrites=true&w=majority"
 
 # https://my.telegram.org/
 ID = 16494736
